@@ -1,0 +1,10 @@
+3|hospitality|환대
+2|restore|저장하다
+2|contribute|기부하다
+1|dynamic|역동적인
+2|initiate|개시하다
+2|contradictory|모순되는
+1|opposite|반대되는
+2|offensive|모욕적인
+2|unidentifiable|신원을 알 수 없는
+1| drive|운전하다
