@@ -8,3 +8,5 @@
 2|offensive|모욕적인
 2|unidentifiable|신원을 알 수 없는
 1| drive|운전하다
+1| Happy|행복한
+1| good|좋은, 상품
